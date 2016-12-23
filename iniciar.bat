@@ -1,0 +1,1 @@
+java -cp jogoDaVelha.jar jogo.Main
